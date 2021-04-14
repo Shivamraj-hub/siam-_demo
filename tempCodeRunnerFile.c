@@ -1,0 +1,1 @@
+printf("Marks of Student %d %d is %d\n", i,j, array[i][j]);
